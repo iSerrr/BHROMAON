@@ -535,7 +535,7 @@ body {
         left: auto;
         transform: translateX(0); }
       .hero__img.center {
-        left: calc(34% + (100vw - 2500px)/4); } }
+        left: 50%}
   .hero__content-wrapper {
     max-height: 628px;
     height: 100vh;
